@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Josefin+Sans:ital,wght@0,100;0,500;1,400&family=Lumanosimo&family=Pangolin&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(pic1.jpg);
+}
+.navbar{
+    
+    background-color: rgb(51, 48, 48);
+    padding: 0 50px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Balsamiq Sans;
+}
+.item1{
+    display: flex;
+}
+
+.litem{
+    
+    display: flex;
+    align-items: center;
+    list-style: none;
+    height: 80px;
+    width: 200px;
+    justify-content: center;
+}
+
+.litem a{
+    color: #0a0a0a;
+    text-decoration: none;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.litem a:hover{
+    color: rgb(67, 255, 255);
+    text-decoration: underline;
+}
+
+.mid{
+    color: white;
+    margin-top: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.foot{
+    background-color: rgb(51, 48, 48);
+    height: 85px;
+    padding-top: 10px;
+    margin-top: 145.49px;
+}
+.social{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.svg{
+    padding: 0 10px;
+}
+.copy{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}

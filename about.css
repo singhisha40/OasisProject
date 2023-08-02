@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color: #139139;
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.aboutimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.text1{
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h3{
+    text-align: center;
+    margin-top: 23px;
+}
+.aboutimg{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
